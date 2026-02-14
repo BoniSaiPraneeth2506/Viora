@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Viora",
+    "slug": "viora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#007AFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.viora.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#007AFF"
+      },
+      "package": "com.viora.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-video"
+    ],
+    "scheme": "viora"
+  }
+}
