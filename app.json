@@ -29,6 +29,11 @@
       "expo-font",
       "expo-video"
     ],
-    "scheme": "viora"
+    "scheme": "viora",
+    "extra": {
+      "eas": {
+        "projectId": "00cc5247-a6e0-4f45-a9dd-b4d205fdcb93"
+      }
+    }
   }
 }
